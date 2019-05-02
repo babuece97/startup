@@ -1,0 +1,14 @@
+
+.jumbotron {
+  background: -webkit-gradient(linear, left top, left bottom, from(#84dcc6), to(white));
+  background: -webkit-linear-gradient(#84dcc6, white);
+  background: -o-linear-gradient(#84dcc6, white);
+  background: linear-gradient(#84dcc6, white); }
+
+.btn-primary {
+  background-color: #ff686b;
+  border: 1px solid #ff3539; }
+.btn-primary:hover {
+    background-color: #ff3539;
+    border: 1px solid #ff3539; }
+
